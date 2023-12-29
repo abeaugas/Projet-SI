@@ -1,5 +1,5 @@
 # BlueD
-##### appreil pour l'ouverture de porte via le Bluetooth Low Energy (BLE)
+##### appareil pour l'ouverture de porte via le Bluetooth Low Energy (BLE)
 ## Inspiration du projet
  https://punchthrough.com/creating-a-ble-peripheral-with-bluez/
 
