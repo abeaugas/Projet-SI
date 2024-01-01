@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
+    <!-- Vos autres vues ici -->
+
+    <ImageView
+        android:id="@+id/backgroundImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/backgrounddd" />
+    <ImageView
+        android:id="@+id/centeredImageView"
+        android:layout_width="200dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:src="@drawable/imageajouter_user"
+        />
+
+    <EditText
+        android:id="@+id/editTextEmail"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/roundded_background"
+        android:gravity="center"
+        android:hint="Adresse Email"
+        android:textColor="@android:color/black"
+        android:inputType="textEmailAddress"
+        />
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/editTextEmail"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/roundded_background"
+        android:textColor="@android:color/black"
+        android:hint="mot de passe"
+        android:gravity="center"
+        android:inputType="textPassword"
+
+        />
+    <Button
+        android:id="@+id/buttonLogin"
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/editTextPassword"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Se connecter"
+        android:textColor="@android:color/white"
+        android:backgroundTint="@color/dark_blue"
+        android:radius="90dp"
+
+
+
+        />
+
+
+    <TextView
+        android:id="@+id/textViewLoginCreerCompte"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonLogin"
+        android:text="Créer compte"
+        android:gravity="center"
+        android:layout_marginTop="11dp"
+        android:textStyle="bold"
+        android:textColor="#113946"
+        />
+    <TextView
+        android:id="@+id/textViewLoginCreerMdpOublie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mot de passe oublié?"
+        android:layout_below="@+id/textViewLoginCreerCompte"
+        android:gravity="center"
+        android:layout_marginTop="7dp"
+        android:textStyle="bold"
+        android:textColor="#113946"
+        />
+
+
+
+</RelativeLayout>
