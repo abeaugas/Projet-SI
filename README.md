@@ -7,13 +7,13 @@ Le fichier ble.py n'a pas été réalisé par nos soins, nous remercions son cr�
 
 ## Lancement du programme
 Il est nécessaire d'avoir un Raspberry Pi, de préférence le modèle 3, avec Pi OS Lite installé dessus.
-La version de python 3 doit être installer ainsi que les dépendances suivantes.
-`sudo apt install python3`
+La version de python 3 doit être installer ainsi que les dépendances suivantes:<br>
+`sudo apt install python3`<br>
 
-`pip install RPi.GPIO`
-`pip install dbus-python` et/ou `pip install dbus-next`
-`pip install firebase`
-`pip install pyoyp`
+`pip install RPi.GPIO`<br>
+`pip install dbus-python` et/ou `pip install dbus-next`<br>
+`pip install firebase`<br>
+`pip install pyotp`<br>
 
 
 
