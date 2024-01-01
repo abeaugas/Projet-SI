@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "995368862308",
+    "firebase_url": "https://projetsi-df034-default-rtdb.firebaseio.com",
+    "project_id": "projetsi-df034",
+    "storage_bucket": "projetsi-df034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995368862308:android:ea7981f210078921895571",
+        "android_client_info": {
+          "package_name": "com.ips.project_si"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG_k546SnRsKAqOvIAc7LlqXhCoFyPg7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995368862308:android:368f17eae9005ad1895571",
+        "android_client_info": {
+          "package_name": "com.ips.projectsi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG_k546SnRsKAqOvIAc7LlqXhCoFyPg7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
