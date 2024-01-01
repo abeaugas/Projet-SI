@@ -10,3 +10,5 @@ lien video pour creer "physical device"
 ![image](https://github.com/abeaugas/Projet-SI/assets/99547111/4c8c6972-4f69-4772-ba44-a4f565ebd165)
 
 #### 3-executer le code et attendez l'installation de l 'application dans votre telephone android 
+
+### ou bien installer l'application en cliquant sur ce lien
