@@ -11,4 +11,5 @@ lien video pour creer "physical device"
 
 #### 3-executer le code et attendez l'installation de l 'application dans votre telephone android 
 
-## ou bien installer l'application en cliquant sur le release "BleuD_user_manager"
+## ou bien installer l'application 
+En clquant et telechangeant l'application [ici](https://github.com/abeaugas/Projet-SI/releases/tag/v1.0)
